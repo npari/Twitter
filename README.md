@@ -25,8 +25,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+## Twitter Demo 1
+
 <img src='https://github.com/npari/Twitter/blob/master/TwitterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Twitter Demo 2
 <img src='https://github.com/npari/Twitter/blob/master/TwitterDemoFinal.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
